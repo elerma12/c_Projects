@@ -29,41 +29,41 @@ bool IsLoggedIn ()
                
 int main()
 {
-		int choice; 
+   int choice; 
 		
-		cout << ": Register/2: Login\nYour choice:" ; cin >> choice;
-		if ( choice == 1)
-		{
-			string username,password;
+   cout << ": Register/2: Login\nYour choice:" ; cin >> choice;
+   if ( choice == 1)
+   {
+      string username,password;
 			
-			cout << "Select a username: " cin << username;
-			cout << "Select a password: " cin << password;
+      cout << "Select a username: " cin << username;
+      cout << "Select a password: " cin << password;
 			
-			ofstream file; 
-			file("c:\\" + username+ ".txt");
+      ofstream file; 
+      file("c:\\" + username+ ".txt");
 			
-			file << username << endl << password; 
-			file.close();
+      file << username << endl << password; 
+      file.close();
 			
-			main ();
-		}
+      main ();
+   }
 	
-	else if (choice ==2)
-	{
-		bool status = IsLoggedIn();
+   else if (choice ==2)
+   {
+      bool status = IsLoggedIn();
 		
-		if (!status)
-		{
-			cout << " False Login! << endl;
-			system ("PAUSE");
-			return 0;
-		}
-		else
-		{
-			cout << " Successfully logged in! " << endl;
-			system("PAUSE");
-			return 1
-		}
+      if (!status)
+         {
+	    cout << " False Login! << endl;
+	    system ("PAUSE");
+	    return 0;
+	 }
+      else
+        {
+	   cout << " Successfully logged in! " << endl;
+	   system("PAUSE");
+	   return 1
+        }
 }
                  
 
