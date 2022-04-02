@@ -1,0 +1,2 @@
+123456,Edgar,Lerma,34
+222222,Claudia,Rodriguez,90
