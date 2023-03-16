@@ -31,14 +31,17 @@ client requesting data of all users in database
 ![image](https://user-images.githubusercontent.com/70728294/225676617-7cbc72e4-88d6-48c1-9594-4ddcbe7ea619.png)
 
 server recieving and sending data of all users in database 
+
 ![image](https://user-images.githubusercontent.com/70728294/225676773-f89f5f82-d12e-4c14-864a-d102b9b4925e.png)
 
 
 client sending shut down request 
+
 ![image](https://user-images.githubusercontent.com/70728294/225676923-d8191b1b-788a-4f3a-bf91-a6ad3736197c.png)
 
 
 server receiving shutdown request and shutting down 
+
 ![image](https://user-images.githubusercontent.com/70728294/225676997-fedde5c5-b655-464d-9993-4f399190a3ff.png)
 
 
