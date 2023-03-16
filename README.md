@@ -17,4 +17,4 @@ The repository contains the following projects
    
   4. psuedo random number generator 
   
-    a.) a generator that gives random service times and interarrival for process for a number of proccesses.  
+     a.) a generator that gives random service times and interarrival for process for a number of proccesses.  
