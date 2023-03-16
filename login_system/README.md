@@ -11,6 +11,9 @@ When user registers, the program creates a file with thier username and password
 
 if user logs in with correct username and passcode 
 
+![image](https://user-images.githubusercontent.com/70728294/225651000-024da638-2e85-45f4-85ae-ca01c8c6dff6.png)
 
+else 
 
-![image](https://user-images.githubusercontent.com/70728294/225649892-159f792f-d691-4a4e-857a-6bf0c7555945.png)
+![image](https://user-images.githubusercontent.com/70728294/225651287-551c4cae-9a4a-4d48-a29a-b8944e2a3ff0.png)
+
