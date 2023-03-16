@@ -1,6 +1,8 @@
 a simple login system, the images below show the program running.
 
 
+![image](https://user-images.githubusercontent.com/70728294/225650314-93dc6631-7fdb-4d21-8959-918b53c94544.png)
+
 When user registers, the program creates a file with thier username and password.
 
 ![image](https://user-images.githubusercontent.com/70728294/225650314-93dc6631-7fdb-4d21-8959-918b53c94544.png)
@@ -8,8 +10,6 @@ When user registers, the program creates a file with thier username and password
 
 
 if user logs in with correct username and passcode 
-
-![image](https://user-images.githubusercontent.com/70728294/225650621-b68ad271-7e0d-45cf-9212-9902a54602fa.png)
 
 
 
