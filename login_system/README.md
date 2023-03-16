@@ -5,7 +5,7 @@ a simple login system, the images below show the program running.
 
 When user registers, the program creates a file with thier username and password.
 
-![image](https://user-images.githubusercontent.com/70728294/225650314-93dc6631-7fdb-4d21-8959-918b53c94544.png)
+![image](https://user-images.githubusercontent.com/70728294/225651454-a512157b-9a35-46e4-b397-4915fe572bc6.png)
 
 
 
