@@ -1,4 +1,5 @@
-The current respository houses some of the projects that created in some of my courses using C/c++ programming language.
+The current respository houses some of the projects that created in some of my courses using C/C++ programming language.
+All projects were compiled and executed in a linux server.
 
 The repository contains the following projects 
 
