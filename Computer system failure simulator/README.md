@@ -24,7 +24,7 @@ Image of server # 2 failing and starting back up .
 ![image](https://user-images.githubusercontent.com/70728294/225662873-1c5dc7ec-e6df-471a-bb72-adb02e9c494e.png)
 
 
-results of simulator 
+Results of simulator 
 
 ![image](https://user-images.githubusercontent.com/70728294/225663032-f412a8d5-ee5c-412e-8570-a82137c55b11.png)
 
